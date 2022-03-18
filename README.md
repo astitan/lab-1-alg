@@ -5,5 +5,5 @@
 (A program that reads a sequence of numbers from a file, displays it on the screen, after each number adding through a dash how many times the digit entered from the keyboard was found in it.)
 testing
 
-![3vWqulJ9TrA](https://user-images.githubusercontent.com/99386386/157183409-a278cfda-1fef-4850-812f-a18880e3f9e6.jpg)
+![image](https://user-images.githubusercontent.com/99386386/158963253-532d0e25-08b3-4866-a73a-f451b0b625b5.png)
 ![URlpsZJFLpA](https://user-images.githubusercontent.com/99386386/157183425-297e628c-6661-4f65-9141-a46cb058ae40.jpg)
