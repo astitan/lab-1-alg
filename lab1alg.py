@@ -25,6 +25,8 @@ with open("file.txt", "r", encoding="utf-8") as file:
             i += 1
 
         print(f"-{count}", end=" ")             # print count
+if file_eof == '':                          # end of file
+    print('\nEnd of file')
 finish = time.time()
 result = finish - start
 print("Program time: " + str(result) + " seconds.")
