@@ -12,6 +12,8 @@ with open("file.txt", "r", encoding="utf-8") as file:       # workimg with file
     content = file.read()
     file_eof = file.read()
     i = 0
+    if FileNotFoundError:
+        print("\nFile file.txt not found in the project directory.\nAdd file in directory or rename already created *.txt file")
     if not content:                           # if file is empty
         print("\nFile text.txt in the project directory is empty.\nAdd a non-empty file to the directory or rename an existing one *.txt файл.")
 
